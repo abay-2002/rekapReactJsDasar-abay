@@ -1,0 +1,12 @@
+.kartu {
+    box-shadow: 0 5px 50px 1px rgba(0,0,0,.1);
+    padding: 20px;
+    display: inline-block;
+    margin: 50px;
+}
+
+.kartu:hover {
+    cursor: pointer;
+    background-color: rgb(100, 100, 100);
+    color: white;
+}
